@@ -10,15 +10,15 @@ Este es un portfolio creado con ReactJS y  Vite.
 
 
 
-* [LikenIn] https://www.linkedin.com/in/dario-echazu-508466232/
+* [LikenIn](https://www.linkedin.com/in/dario-echazu-508466232/)
 * [PortfolioWeb] en preparacion
 
-* [Facebook]https://www.facebook.com/dario.echazu.7/
+* [Facebook](https://www.facebook.com/dario.echazu.7/)
 
 ## Ver ejemplo en vivo
-- [ENLACEGITHUBPAGES] (ENLACEGITHUBPAGES)
+- [ENLACEGITHUBPAGES](ENLACEGITHUBPAGES)
 
 
 ## Contratación
 Si queres contrartme, podes escribirme para consultas.
-* [e-mail]darioechazu@hotmail.com
+* [e-mail](darioechazu@hotmail.com)
