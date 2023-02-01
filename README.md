@@ -11,7 +11,7 @@ Este es un portfolio creado con ReactJS y  Vite.
 
 
 * [LikenIn](https://www.linkedin.com/in/dario-echazu-508466232/)
-* [PortfolioWeb] en preparacion
+* [PortfolioWeb]( en preparacion)
 
 * [Facebook](https://www.facebook.com/dario.echazu.7/)
 
