@@ -16,7 +16,7 @@ Este es un portfolio creado con ReactJS y  Vite.
 * [Facebook](https://www.facebook.com/dario.echazu.7/)
 
 ## Ver ejemplo en vivo
-- [ENLACEGITHUBPAGES](ENLACEGITHUBPAGES)
+* https://canarioechazu.github.io/mi-portfolio/
 
 
 ## Contratación
